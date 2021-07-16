@@ -8,7 +8,7 @@
   Following this tutorial (https://www.datacamp.com/community/tutorials/tensorflow-tutorial), I was able to create a neural network that classifies different Belgian Traffic Signs. Some steps in this process included normalizing the data and calculating accuracy and loss. End accuracy: 44.2%
   
 ## Project 3: Digit Recognizer using a Convolutional Neural Network
-  Tutorial: https://www.kaggle.com/kanncaa1/convolutional-neural-network-cnn-tutorial
-  I was able to create a neural network that recognized digits from a handwritten digit dataset. The steps in the project were roughly split as follows: loading the data & examining the labels, normalizing the data, encoding the labels, creating the neural network, augmenting the data, fitting the model, validating it, and evaluating accuracy/loss with a graphic and confusion matrix.
+Tutorial: https://www.kaggle.com/kanncaa1/convolutional-neural-network-cnn-tutorial
+- I was able to create a neural network that recognized digits from a handwritten digit dataset. The steps in the project were roughly split as follows: loading the data & examining the labels, normalizing the data, encoding the labels, creating the neural network, augmenting the data, fitting the model, validating it, and evaluating accuracy/loss with a graphic and confusion matrix.
   
   
