@@ -14,5 +14,9 @@ Tutorial: https://www.kaggle.com/kanncaa1/convolutional-neural-network-cnn-tutor
 ## Project 4: Digit Recognizer Part 2
 Tutorial: https://machinelearningmastery.com/how-to-develop-a-convolutional-neural-network-from-scratch-for-mnist-handwritten-digit-classification/
 - To build on Project 3, I followed the tutorial to build a model evaluating the MNIST hanwriting dataset with function definitions and model evaluation to get a better sense of how the model worked and how it performed. I added 3 convolutional layers, which ended up increasing the models accuracy to 98.6%. The box plot and line graph in the summarize functions also helped visualize the accuracy and loss of the model.
+
+## Project 5: Prediciting House Prices
+Tutorial: https://hackernoon.com/build-your-first-neural-network-to-predict-house-prices-with-keras-3fb0839680f4
+- I followed the tutorial with the popular house prices dataset to build a binary classification neural network to predict if the house was above or below the median value. The tutorial walked through the architecture of the model, and also taught a new aspect: minimizing overfitting through the use of regularization. I also added a section that displayed the predicted outputs for the first 10 columns of data, so that I could visualize the accuracy of the model myself. 
   
   
