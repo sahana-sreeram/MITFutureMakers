@@ -10,5 +10,9 @@
 ## Project 3: Digit Recognizer using a Convolutional Neural Network
 Tutorial: https://www.kaggle.com/kanncaa1/convolutional-neural-network-cnn-tutorial
 - I was able to create a neural network that recognized digits from a handwritten digit dataset. The steps in the project were roughly split as follows: loading the data & examining the labels, normalizing the data, encoding the labels, creating the neural network, augmenting the data, fitting the model, validating it, and evaluating accuracy/loss with a graphic and confusion matrix.
+
+## Project 4: Digit Recognizer Part 2
+Tutorial: https://machinelearningmastery.com/how-to-develop-a-convolutional-neural-network-from-scratch-for-mnist-handwritten-digit-classification/
+- To build on Project 3, I followed the tutorial to build a model evaluating the MNIST hanwriting dataset with function definitions and model evaluation to get a better sense of how the model worked and how it performed. I added 3 convolutional layers, which ended up increasing the models accuracy to close to 99%. The box plot and line graph in the summarize functions also helped visualize the accuracy and loss of the model.
   
   
