@@ -17,5 +17,8 @@ Tutorial: https://machinelearningmastery.com/how-to-develop-a-convolutional-neur
 ## Project 5: Prediciting House Prices
 Tutorial: https://hackernoon.com/build-your-first-neural-network-to-predict-house-prices-with-keras-3fb0839680f4
 - I followed the tutorial with the popular house prices dataset to build a binary classification neural network to predict if the house was above or below the median value. The tutorial walked through the architecture of the model, and also taught a new aspect: minimizing overfitting through the use of regularization. I also added a section that displayed the predicted outputs for the first 10 columns of data, so that I could visualize the accuracy of the model myself. 
-  
+
+## Project 6: Gender classification of Facial Images
+Tutorial: https://www.kaggle.com/thanaphatj/gender-classification-of-facial-images-cnn#Data-Visualization
+- Used an image dataset with ages and ethnicities. Objective: classify image as male or female (binary classification). Accuracy after 10 epochs: 92%
   
