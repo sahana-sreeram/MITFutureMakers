@@ -25,4 +25,9 @@ Tutorial: https://www.kaggle.com/thanaphatj/gender-classification-of-facial-imag
 ## Project 7: Cats vs Dogs classifier
 Tutorial: https://keras.io/examples/vision/image_classification_from_scratch/
 - Modified instructions from the tutorial to build an image classifier model from scratch using the Microsoft Cats vs Dogs dataset
+
+## Project 8: Minimizing Overfitting using the Twitter US Airline Sentiments
+- Explored the three areas that can be used to minimize overfitting: reduce model complexity, apply regularization, and apply dropout layers
+- Created a baseline overfitted model to compare with
+- End accuracy on test set: 80.33%
   
