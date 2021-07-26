@@ -21,4 +21,8 @@ Tutorial: https://hackernoon.com/build-your-first-neural-network-to-predict-hous
 ## Project 6: Gender classification of Facial Images
 Tutorial: https://www.kaggle.com/thanaphatj/gender-classification-of-facial-images-cnn#Data-Visualization
 - Used an image dataset with ages and ethnicities. Objective: classify image as male or female (binary classification). Accuracy after 10 epochs: 92%
+
+## Project 7: Cats vs Dogs classifier
+Tutorial: https://keras.io/examples/vision/image_classification_from_scratch/
+- Modified instructions from the tutorial to build an image classifier model from scratch using the Microsoft Cats vs Dogs dataset
   
