@@ -30,4 +30,12 @@ Tutorial: https://keras.io/examples/vision/image_classification_from_scratch/
 - Explored the three areas that can be used to minimize overfitting: reduce model complexity, apply regularization, and apply dropout layers
 - Created a baseline overfitted model to compare with
 - End accuracy on test set: 80.33%
+
+## Project 9: Building a simple Autoencoder using Keras and the MNIST digit dataset
+- Tutorial: https://blog.keras.io/building-autoencoders-in-keras.html
+- Step 1: Building a simple base AE. End result: output a bit lossy
+- Step 2: Build a deep AE by increasing layers
+- Step 3: Build a ConvAE with Conv2D and UpSampling2D. End Result: less lossy, accuracy about 81%
+- Step 4: Experiment with image denoising by adding 0.7 noise to dataset and removing it using AE
+- Step 5: Build a generative AE using Variational Autoencoding
   
