@@ -38,4 +38,11 @@ Tutorial: https://keras.io/examples/vision/image_classification_from_scratch/
 - Step 3: Build a ConvAE with Conv2D and UpSampling2D. End Result: less lossy, accuracy about 81%
 - Step 4: Experiment with image denoising by adding 0.7 noise to dataset and removing it using AE
 - Step 5: Build a generative AE using Variational Autoencoding
+
+## Project 10: Sentiment Analysis of Text using Movie Review dataset
+- Tutorial: https://www.tensorflow.org/tutorials/keras/text_classification
+- Type: NLP Binary Classifier
+- Built a simple ML model using NLP to predict if a movie review is positive or negative
+- Exported the model to be able to read raw string data
+- Added a Python loop to output "Positive" or "Negative" based on inputted string data
   
