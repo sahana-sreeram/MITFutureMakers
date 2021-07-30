@@ -50,15 +50,15 @@ Tutorial: https://keras.io/examples/vision/image_classification_from_scratch/
 - Code & trained model: https://github.com/MITESHPUTHRANNEU/Speech-Emotion-Analyzer
 - Using the RAVDESS and SAVEE audio datasets (data from voice actors), the model was built and trained to predict female/male and emotion of the voice
 - Trained with 10 labels: 
-0 - female_angry
-1 - female_calm
-2 - female_fearful
-3 - female_happy
-4 - female_sad
-5 - male_angry
-6 - male_calm
-7 - male_fearful
-8 - male_happy
-9 - male_sad
+female_angry; 
+female_calm; 
+female_fearful; 
+female_happy; 
+female_sad; 
+male_angry; 
+male_calm; 
+male_fearful; 
+male_happy; 
+male_sad;
 - The uploaded notebook contains the part of the model where it can be tested using live voices (using pyaudio and wav libraries)
   
